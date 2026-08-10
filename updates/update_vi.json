@@ -1,13 +1,14 @@
 {
     "lang": "vi",
-    "build": 2026072901,
-    "name": "Apktool_M_v2.4.0-260729(2026072901)",
+    "build": 2026081101,
+    "name": "Apktool_M_v2.4.0-260811(2026081101)",
     "size": "15,68 MiB",
     "size_arm64-v8a": "12,63 MiB",
     "size_armeabi-v7a": "12,17 MiB",
     "size_x86": "12,91 MiB",
     "size_x86_64": "12,75 MiB",
-    "date": "29/07/2026 14:59 (GMT+3)",
-    "vt_url": "https://www.virustotal.com/gui/file/c427b62b2441766ec556015867b40a0f8524aea801c8917762e158afe2103250/detection",
-    "changes": "Mới trong phiên bản 260729:\n- đã sửa lỗi khôi phục cài đặt từ bản sao lưu, dẫn đến lỗi ứng dụng;"
+    "date": "11/08/2026 00:01 (GMT+3)",
+    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260811(2026081101).apk",
+    "vt_url": "https://www.virustotal.com/gui/file/696f42d932a165aa784bb3475e11b891ba50b809e7dbcd7f03ebf3fe5fddef23/detection",
+    "changes": "Mới trong phiên bản 260811:\n- cải thiện khả năng tùy chỉnh bảng biểu tượng trong trình chỉnh sửa;\n- bây giờ so sánh tổng kiểm tra xem chúng có khớp một phần hay không;\n- cải thiện đôi chút khả năng dịch ngược các tài nguyên bị xáo trộn;\n- đã sửa lỗi cũ trong trình chỉnh sửa khiến con trỏ nhảy đến vị trí của văn bản đã chọn;\n- thỏa thuận cấp phép đã được cập nhật (rút gọn, bản chất không thay đổi);\n- sửa lỗi cũng như nhiều cải tiến nhỏ khác nhau;"
 }

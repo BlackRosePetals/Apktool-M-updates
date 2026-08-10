@@ -1,13 +1,14 @@
 {
     "lang": "in",
-    "build": 2026072901,
-    "name": "Apktool_M_v2.4.0-260729(2026072901)",
+    "build": 2026081101,
+    "name": "Apktool_M_v2.4.0-260811(2026081101)",
     "size": "15,68 MiB",
     "size_arm64-v8a": "12,63 MiB",
     "size_armeabi-v7a": "12,17 MiB",
     "size_x86": "12,91 MiB",
     "size_x86_64": "12,75 MiB",
-    "date": "29/07/2026 14:59 (GMT+3)",
-    "vt_url": "https://www.virustotal.com/gui/file/c427b62b2441766ec556015867b40a0f8524aea801c8917762e158afe2103250/detection",
-    "changes": "Baru di versi 260729:\n- memperbaiki kesalahan dalam memulihkan pengaturan dari cadangan, yang menyebabkan aplikasi mogok;"
+    "date": "11/08/2026 00:01 (GMT+3)",
+    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260811(2026081101).apk",
+    "vt_url": "https://www.virustotal.com/gui/file/696f42d932a165aa784bb3475e11b891ba50b809e7dbcd7f03ebf3fe5fddef23/detection",
+    "changes": "Baru di versi 260811:\n- peningkatan penyesuaian panel simbol di editor;\n- perbandingan checksum sekarang menunjukkan apakah sebagian cocok;\n- dekompilasi sumber daya yang dikaburkan sedikit lebih baik;\n- memperbaiki bug lama di editor dengan kursor melompat ke lokasi teks yang dipilih;\n- perjanjian lisensi telah diperbarui (dipersingkat, esensinya tidak berubah);\n- perbaikan bug, serta berbagai perbaikan kecil;"
 }
