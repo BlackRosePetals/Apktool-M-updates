@@ -26,6 +26,8 @@ jobs:
 
       - name: Translate
         id: translate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python translate.py
 
       - name: Commit translations
