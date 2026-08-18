@@ -1,14 +1,15 @@
 {
     "lang": "in",
-    "build": 2026081101,
-    "name": "Apktool_M_v2.4.0-260811(2026081101)",
-    "size": "15,68 MiB",
-    "size_arm64-v8a": "12,63 MiB",
-    "size_armeabi-v7a": "12,17 MiB",
-    "size_x86": "12,91 MiB",
-    "size_x86_64": "12,75 MiB",
-    "date": "11/08/2026 00:01 (GMT+3)",
-    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260811(2026081101).apk",
-    "vt_url": "https://www.virustotal.com/gui/file/696f42d932a165aa784bb3475e11b891ba50b809e7dbcd7f03ebf3fe5fddef23/detection",
-    "changes": "Baru di versi 260811:\n- peningkatan penyesuaian panel simbol di editor;\n- perbandingan checksum sekarang menunjukkan apakah sebagian cocok;\n- dekompilasi sumber daya yang dikaburkan sedikit lebih baik;\n- memperbaiki bug lama di editor dengan kursor melompat ke lokasi teks yang dipilih;\n- perjanjian lisensi telah diperbarui (dipersingkat, esensinya tidak berubah);\n- perbaikan bug, serta berbagai perbaikan kecil;"
+    "build": 2026081801,
+    "name": "Apktool_M_v2.4.0-260818(2026081801)",
+    "size": "15,71 MiB",
+    "size_arm64-v8a": "12,66 MiB",
+    "size_armeabi-v7a": "12,20 MiB",
+    "size_x86": "12,94 MiB",
+    "size_x86_64": "12,78 MiB",
+    "date": "18/08/2026 19:42 (GMT+3)",
+    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260818(2026081801).apk?b=01",
+    "vt_url": "https://www.virustotal.com/gui/file/3a69000250de2a65721054e0aa2e6d93f7c50d9313d073226eac80c9718f50c8/detection",
+    "changes": "Baru di versi 260818:\n- menambahkan server lokal sederhana, mendukung WebDav dan antarmuka browser (read-only), tersedia di menu folder;\n- menambahkan kemampuan untuk memasukkan komentar Anda sendiri ke arsip saat mengompresi file;\n- Anda dapat melihat komentar arsip saat melihat isinya;\n- perbaikan dan peningkatan kecil;",
+    "strip_changes": null
 }

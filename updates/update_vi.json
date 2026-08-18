@@ -1,14 +1,15 @@
 {
     "lang": "vi",
-    "build": 2026081101,
-    "name": "Apktool_M_v2.4.0-260811(2026081101)",
-    "size": "15,68 MiB",
-    "size_arm64-v8a": "12,63 MiB",
-    "size_armeabi-v7a": "12,17 MiB",
-    "size_x86": "12,91 MiB",
-    "size_x86_64": "12,75 MiB",
-    "date": "11/08/2026 00:01 (GMT+3)",
-    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260811(2026081101).apk",
-    "vt_url": "https://www.virustotal.com/gui/file/696f42d932a165aa784bb3475e11b891ba50b809e7dbcd7f03ebf3fe5fddef23/detection",
-    "changes": "Mới trong phiên bản 260811:\n- cải thiện khả năng tùy chỉnh bảng biểu tượng trong trình chỉnh sửa;\n- bây giờ so sánh tổng kiểm tra xem chúng có khớp một phần hay không;\n- cải thiện đôi chút khả năng dịch ngược các tài nguyên bị xáo trộn;\n- đã sửa lỗi cũ trong trình chỉnh sửa khiến con trỏ nhảy đến vị trí của văn bản đã chọn;\n- thỏa thuận cấp phép đã được cập nhật (rút gọn, bản chất không thay đổi);\n- sửa lỗi cũng như nhiều cải tiến nhỏ khác nhau;"
+    "build": 2026081801,
+    "name": "Apktool_M_v2.4.0-260818(2026081801)",
+    "size": "15,71 MiB",
+    "size_arm64-v8a": "12,66 MiB",
+    "size_armeabi-v7a": "12,20 MiB",
+    "size_x86": "12,94 MiB",
+    "size_x86_64": "12,78 MiB",
+    "date": "18/08/2026 19:42 (GMT+3)",
+    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260818(2026081801).apk?b=01",
+    "vt_url": "https://www.virustotal.com/gui/file/3a69000250de2a65721054e0aa2e6d93f7c50d9313d073226eac80c9718f50c8/detection",
+    "changes": "Mới trong phiên bản 260818:\n- đã thêm một máy chủ cục bộ đơn giản, hỗ trợ WebDav và giao diện trình duyệt (chỉ đọc), có sẵn trong menu thư mục;\n- đã thêm khả năng đặt nhận xét của riêng bạn vào kho lưu trữ khi nén tệp;\n- bạn có thể xem nhận xét lưu trữ khi xem nội dung;\n- sửa lỗi và cải tiến nhỏ;",
+    "strip_changes": null
 }

@@ -1,14 +1,15 @@
 {
     "lang": "ja",
-    "build": 2026081101,
-    "name": "Apktool_M_v2.4.0-260811(2026081101)",
-    "size": "15,68 MiB",
-    "size_arm64-v8a": "12,63 MiB",
-    "size_armeabi-v7a": "12,17 MiB",
-    "size_x86": "12,91 MiB",
-    "size_x86_64": "12,75 MiB",
-    "date": "11/08/2026 00:01 (GMT+3)",
-    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260811(2026081101).apk",
-    "vt_url": "https://www.virustotal.com/gui/file/696f42d932a165aa784bb3475e11b891ba50b809e7dbcd7f03ebf3fe5fddef23/detection",
-    "changes": "バージョン 260811 の新機能:\n- エディターのシンボル パネルのカスタマイズが改善されました。\n- チェックサムを比較すると、部分的に一致するかどうかが表示されます。\n- 難読化されたリソースの逆コンパイルがわずかに改善されました。\n- 選択したテキストの位置にカーソルがジャンプするエディターの古いバグを修正しました。\n- 使用許諾契約が更新されました (短縮されましたが、本質は変更されていません)。\n- バグ修正とさまざまなマイナーな改善。"
+    "build": 2026081801,
+    "name": "Apktool_M_v2.4.0-260818(2026081801)",
+    "size": "15,71 MiB",
+    "size_arm64-v8a": "12,66 MiB",
+    "size_armeabi-v7a": "12,20 MiB",
+    "size_x86": "12,94 MiB",
+    "size_x86_64": "12,78 MiB",
+    "date": "18/08/2026 19:42 (GMT+3)",
+    "loadurl": "https://raw.githubusercontent.com/Maximoff/Apktool-M-updates/main/files/Apktool_M_v2.4.0-260818(2026081801).apk?b=01",
+    "vt_url": "https://www.virustotal.com/gui/file/3a69000250de2a65721054e0aa2e6d93f7c50d9313d073226eac80c9718f50c8/detection",
+    "changes": "バージョン 260818 の新機能:\n- シンプルなローカル サーバーを追加し、WebDav とブラウザ インターフェイス (読み取り専用) をサポートし、フォルダー メニューで利用可能です。\n- ファイルを圧縮するときに独自のコメントをアーカイブに設定する機能を追加しました。\n- コンテンツを表示すると、アーカイブのコメントが表示されます。\n- 軽微な修正と改善。",
+    "strip_changes": null
 }
